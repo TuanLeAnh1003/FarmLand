@@ -117,40 +117,40 @@ function Body({parentClickProduct}) {
                         <nav className="mobile-category">
                             <ul className="mobile-category__list">
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Rau xanh</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Rau xanh</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Rau xanh</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Rau xanh</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Củ</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Củ</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Củ</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Củ</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Quả</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Quả</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Quả</a>
                                 </li>
                                 <li className="mobile-category__item">
-                                    <a href="/" className="mobile-category__link">Giày các loại</a>
+                                    <a href="/" className="mobile-category__link">Quả</a>
                                 </li>
                             </ul>
                         </nav>
